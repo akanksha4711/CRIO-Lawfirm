@@ -1,0 +1,22 @@
+.nav-item {
+    color: white;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+}
+.btn {
+    color: white;
+    border-radius: 1px;
+    border: 2px solid white;
+    width: 172px;
+    height: 47px;
+    text-transform: none;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19.6px;
+}
+.btn:hover {
+    color: white;
+    border-radius: 1px;
+    border: 2px solid white;
+}

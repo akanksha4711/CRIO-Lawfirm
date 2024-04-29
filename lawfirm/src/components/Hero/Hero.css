@@ -1,0 +1,19 @@
+.hero {
+    color: white;
+    margin-top: 100px;
+}
+.hero-heading{
+    font-size: 66px;
+    line-height: 97.37px;
+}
+.hero-subheading {
+    font-size: 18px;
+    font-weight: 500;
+    opacity: 30%;
+}
+input {
+    width: 438px;
+    height: 74px;
+    opacity: 10%;
+    border-radius: 43px;
+}
