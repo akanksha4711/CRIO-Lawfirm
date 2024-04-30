@@ -1,6 +1,7 @@
 .hero {
     color: white;
     margin-top: 100px;
+    margin-bottom: 100px;
 }
 .hero-heading{
     font-size: 66px;
@@ -12,8 +13,38 @@
     opacity: 30%;
 }
 input {
-    width: 438px;
+    width: 301px;
     height: 74px;
     opacity: 10%;
     border-radius: 43px;
+}
+button {
+    width: 137px;
+    height: 62px;
+    border-radius: 43px;
+    background-color: #E3B748;
+    font-size: 16px;
+    font-weight: 600;
+}
+.text-grp{
+    width: 600px;
+}
+.img-grp{
+    position: relative;
+}
+img {
+    width: 650px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: 1;
+}
+.background {
+    width: 350px;
+    height: 350px;
+    background-color: #E3B748;
+    position: absolute;
+    left: 150px;
+    top: 59px;
+    border-radius: 55px;
 }
