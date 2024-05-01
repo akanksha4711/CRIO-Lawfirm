@@ -32,7 +32,7 @@ button {
 .img-grp{
     position: relative;
 }
-img {
+.hero-img {
     width: 650px;
     position: absolute;
     left: 0;

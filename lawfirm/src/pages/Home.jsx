@@ -1,6 +1,7 @@
 import Navbar from "../components/Navbar/Navbar";
 import Hero from "../components/Hero/Hero";
 import Introduction from "../components/Introduction/Introduction";
+import Section1 from "../components/Section1/Section1";
 import { Stack } from "@mui/material";
 import "./Home.css";
 
@@ -14,9 +15,10 @@ export default function Home () {
                 </div>
             </Stack>
             <Stack>
-                <div className="container">
+                <Stack spacing={18} className="container">
                     <Introduction />
-                </div>
+                    <Section1/>
+                </Stack>
             </Stack>
         </div>
     )
