@@ -4,7 +4,6 @@ import imgData from "../../assets/Section1.json"
 import "./Section1.css"
 
 export default function Section1 () {
-    console.log(imgData);
     return (
         <Stack spacing={5} className="section1" alignItems={"center"}>
             <span className="section1-heading">Area of Practices</span>

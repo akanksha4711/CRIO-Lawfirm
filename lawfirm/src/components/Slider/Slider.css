@@ -1,0 +1,20 @@
+.slider {
+    color: white;
+}
+.swiper {
+    width: 100%;
+}
+.swiper-slide {
+    color: white;
+}
+.grid-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.swiper-button-prev {
+    color: #E3B748;
+}
+.swiper-button-next {
+    color: #E3B748;
+}

@@ -1,5 +1,4 @@
 import { FaGift } from "react-icons/fa6";
-import { Stack } from "@mui/material";
 import "./Card.css"
 
 export default function Card ({even, successRate}) {

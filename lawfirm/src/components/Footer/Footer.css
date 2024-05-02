@@ -1,0 +1,9 @@
+.footer {
+    color: white;
+}
+.footer-details {
+    justify-content: center;
+}
+.footer-details span {
+    font-size: 12px;
+}

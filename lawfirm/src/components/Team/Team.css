@@ -1,0 +1,28 @@
+.chip {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    width: 35vh;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+.highlight {
+    background-color: #E3B748;
+    color: black;
+}
+.chip-image {
+    width: 12vh;
+    height: 12vh;
+    object-fit: cover;
+    border-radius: 100%;
+    margin-right: 15px;
+}
+.chip-content span{
+    font-size: 18px;
+    font-weight: 600;
+}
+.chip-content p {
+    opacity: 40%;
+}

@@ -1,0 +1,31 @@
+.card {
+    background-color: #1d1d1d;
+    border: 1px solid #2e2e2e;
+    border-radius: 14px;
+    width: 45vh;
+    height: 47vh;
+}
+.card-content {
+    padding: 5vh 5vh;
+    overflow: hidden;
+}
+.even {
+    background-color: #2e2e2e;
+}
+.icon-bg {
+    background-color: white;
+    width: 10vh;
+    height: 10vh;
+    border-radius: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon {
+    color: black;
+    width: 10vh;
+}
+.card-p {
+    opacity: 30%;
+    font-size: 14px;
+}

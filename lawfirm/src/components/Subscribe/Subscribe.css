@@ -1,0 +1,23 @@
+.subscribe {
+    display: flex;
+    align-items: center;
+    color: white;
+    background-color: #2e2e2e;
+    padding: 60px 10px;
+}
+.subscribe-input {
+    background-color: white;
+    opacity: 100%;
+    width: 40vh;
+    height: 8vh;
+    border-radius: 0;
+    padding: 0 20px;
+}
+.one {
+    border-radius: 10px 0 0 10px;
+}
+.subscribe-btn {
+    width: 20vh;
+    height: 8vh;
+    border-radius: 0 10px 10px 0;
+}

@@ -1,0 +1,18 @@
+.faq {
+    color: white;
+}
+.accordion {
+    background-color: #1d1d1d;
+}
+.accordion-heading {
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+.accordion-details {
+    color: white;
+    opacity: 40%;
+}
+.expand-icon {
+    color: #E3B748;
+}
